@@ -1,0 +1,6 @@
+C:\Users\renzo\Desktop\CURSO ASP MAXI PROGRAMA\ASP\ProyectoAspNet\Dominio\bin\Debug\Dominio.dll
+C:\Users\renzo\Desktop\CURSO ASP MAXI PROGRAMA\ASP\ProyectoAspNet\Dominio\bin\Debug\Dominio.pdb
+C:\Users\renzo\Desktop\CURSO ASP MAXI PROGRAMA\ASP\ProyectoAspNet\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\renzo\Desktop\CURSO ASP MAXI PROGRAMA\ASP\ProyectoAspNet\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\renzo\Desktop\CURSO ASP MAXI PROGRAMA\ASP\ProyectoAspNet\Dominio\obj\Debug\Dominio.dll
+C:\Users\renzo\Desktop\CURSO ASP MAXI PROGRAMA\ASP\ProyectoAspNet\Dominio\obj\Debug\Dominio.pdb
