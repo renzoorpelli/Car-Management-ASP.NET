@@ -70,6 +70,7 @@
     <Content Include="Default.aspx" />
     <Content Include="Global.asax" />
     <Content Include="Web.config" />
+    <Content Include="AutoForm.aspx" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Default.aspx.cs">
@@ -89,6 +90,13 @@
     </Compile>
     <Compile Include="Site.Master.designer.cs">
       <DependentUpon>Site.Master</DependentUpon>
+    </Compile>
+    <Compile Include="AutoForm.aspx.cs">
+      <DependentUpon>AutoForm.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AutoForm.aspx.designer.cs">
+      <DependentUpon>AutoForm.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
